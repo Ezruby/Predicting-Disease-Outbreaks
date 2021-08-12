@@ -34,7 +34,7 @@ __Objectives__
 * Analyzing algorithm output and tuning model settings to improve result
 
 * Sorting between clusters based on size and within clusters based on distance  
-* * *matplotlib: general visualization*
+ * *matplotlib: general visualization*
 
 * Interpreting algorithm results in the problem domain
 
