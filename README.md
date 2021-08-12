@@ -48,8 +48,12 @@ __Objectives__
 
 ![Zika-Outbreak](https://user-images.githubusercontent.com/54360488/129198087-0ed0b6d5-b3fc-4244-957f-bf17962bba4f.png)
 
+**Clusters formed by DBSCAN after reporting outbreaks of Zika all over the world**
 
 
 
 
+
+
+**For detailed deascription, check the pdf!**
 [Discovering Disease Outbreaks from News Headlines.pdf](https://github.com/ItsQuantumC/Predicting-Disease-Outbreaks/files/6973836/Discovering.Disease.Outbreaks.from.News.Headlines.pdf)
