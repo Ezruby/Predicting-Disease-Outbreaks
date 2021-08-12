@@ -2,7 +2,10 @@
 # Predicting-Disease-Outbreaks using Unsupervised ML Techniques: DBSCAN!
 
 
-[79 villages in Pune declared vulnerable to Zika virus - Cities News - Google Chrome 8_11_2021 4_44_39 PM](https://user-images.githubusercontent.com/54360488/129195846-d2cffd16-2f3e-46b1-8dfd-c0db3fd1a431.png)
+[79 villages in Pune declared vulnerable to Zika virus ](https://user-images.githubusercontent.com/54360488/129195846-d2cffd16-2f3e-46b1-8dfd-c0db3fd1a431.png)
+
+
+
 
 __The daily deluge of news headlines is too overwhelming to be analyzed manually due to the limited resources of the WHO and the large quantity of data. The WHO therefore needs data scientists to extract geographic information from the headlines and determine if and where there are clusters of disease outbreaks. This critical information will be used to dispatch resources where they are needed.__
 
@@ -40,6 +43,13 @@ __Objectives__
 
 * Summarizing findings of a data science project effectively  
  * *nbconvert: converting Jupyter Notebooks to reports*
+
+
+
+![Zika-Outbreak](https://user-images.githubusercontent.com/54360488/129198087-0ed0b6d5-b3fc-4244-957f-bf17962bba4f.png)
+
+
+
 
 
 [Discovering Disease Outbreaks from News Headlines.pdf](https://github.com/ItsQuantumC/Predicting-Disease-Outbreaks/files/6973836/Discovering.Disease.Outbreaks.from.News.Headlines.pdf)
