@@ -19,27 +19,27 @@ __Objectives__
 **Techniques employed**
 
 
-Extracting city and country name data from text using regular expressions
-    *re: text extraction with regular expressions*
+* Extracting city and country name data from text using regular expressions
+    /n * *re: text extraction with regular expressions* /n
 
 Manipulating data and matching location names to geographic coordinates
-    *pandas: data manipulation and analysis*
+    * *pandas: data manipulation and analysis*
 
 Clustering geographic coordinates with k-means and/or DBSCAN
-    *scikit-learn: machine learning*
+    * *scikit-learn: machine learning*
 
 Visualizing clusters on a geographic map
-    *basemap: geographic visualization*
+    * *basemap: geographic visualization*
 
 Analyzing algorithm output and tuning model settings to improve result
 
 Sorting between clusters based on size and within clusters based on distance
-    *matplotlib: general visualization*
+    * *matplotlib: general visualization*
 
 Interpreting algorithm results in the problem domain
 
 Summarizing findings of a data science project effectively
-    *nbconvert: converting Jupyter Notebooks to reports*
+    * *nbconvert: converting Jupyter Notebooks to reports*
 
 
 [Discovering Disease Outbreaks from News Headlines.pdf](https://github.com/ItsQuantumC/Predicting-Disease-Outbreaks/files/6973836/Discovering.Disease.Outbreaks.from.News.Headlines.pdf)
