@@ -8,12 +8,12 @@ __The daily deluge of news headlines is too overwhelming to be analyzed manually
 
 __Objectives__
 
-*Extract the locations (city and/or country name) from each news headline.
-Find the geographic coordinates of each headline using the city/country.
-Cluster (group) the headlines based on the geographic location.
-Visualize the clusters on a map and analyze them for patterns indicating an epidemic.
-Investigate the largest clusters for signs of disease outbreaks.
-Review headlines in the largest clusters within the United States and around the world. If any disease outbreak is particularly dominant, visualize all worldwide mentions of that disease.
+* *Extract the locations (city and/or country name) from each news headline*.
+* *Find the geographic coordinates of each headline using the city/country*.
+* *Cluster (group) the headlines based on the geographic location*.
+* *Visualize the clusters on a map and analyze them for patterns indicating an epidemic*.
+* *Investigate the largest clusters for signs of disease outbreaks*.
+* *Review headlines in the largest clusters within the United States and around the world. If any disease outbreak is particularly dominant, visualize all worldwide mentions of that disease.*
 
 
 **Techniques employed**
