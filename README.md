@@ -19,8 +19,8 @@ __Objectives__
 **Techniques employed**
 
 
-* Extracting city and country name data from text using regular expressions
-    \n * *re: text extraction with regular expressions* \n
+* Extracting city and country name data from text using regular expressions  
+* * *re: text extraction with regular expressions* 
 
 Manipulating data and matching location names to geographic coordinates
     * *pandas: data manipulation and analysis*
