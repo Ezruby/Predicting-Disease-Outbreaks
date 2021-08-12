@@ -26,10 +26,10 @@ __Objectives__
 * *pandas: data manipulation and analysis*
 
 * Clustering geographic coordinates with k-means and/or DBSCAN  
-* * *scikit-learn: machine learning*
+ * *scikit-learn: machine learning*
 
 * Visualizing clusters on a geographic map  
-* * *basemap: geographic visualization*
+ * *basemap: geographic visualization*
 
 * Analyzing algorithm output and tuning model settings to improve result
 
@@ -39,7 +39,7 @@ __Objectives__
 * Interpreting algorithm results in the problem domain
 
 * Summarizing findings of a data science project effectively  
-* * *nbconvert: converting Jupyter Notebooks to reports*
+ * *nbconvert: converting Jupyter Notebooks to reports*
 
 
 [Discovering Disease Outbreaks from News Headlines.pdf](https://github.com/ItsQuantumC/Predicting-Disease-Outbreaks/files/6973836/Discovering.Disease.Outbreaks.from.News.Headlines.pdf)
