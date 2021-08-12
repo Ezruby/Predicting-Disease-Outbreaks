@@ -20,7 +20,7 @@ __Objectives__
 
 
 * Extracting city and country name data from text using regular expressions
-    /n * *re: text extraction with regular expressions* /n
+    \n * *re: text extraction with regular expressions* \n
 
 Manipulating data and matching location names to geographic coordinates
     * *pandas: data manipulation and analysis*
