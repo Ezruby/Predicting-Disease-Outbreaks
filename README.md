@@ -1,5 +1,5 @@
 
-# Predicting-Disease-Outbreaks using Unsupervised ML Techniques: DBSCAN!
+# Predicting-Disease-Outbreaks using Unsupervised ML Techniques: DBSCAN
 
 
 [79 villages in Pune declared vulnerable to Zika virus ](https://user-images.githubusercontent.com/54360488/129195846-d2cffd16-2f3e-46b1-8dfd-c0db3fd1a431.png)
